@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WebXR/Samples/Desert/Scenes/Desert.unity
+    guid: 85380d4847db7b74a850284461349c36
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 38a0a27e800adc14cb70c36db09868e3, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3b45c9fb94ade594581cb0811607ae1e, type: 2}
